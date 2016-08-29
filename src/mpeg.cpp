@@ -259,7 +259,6 @@ void adjust_Adaptation_field ( TS_AF * packet, unsigned char * buffer )
 }
 
 
-
 typedef struct TS_PES_H
 {
 	unsigned packet_start_code_prefix;
